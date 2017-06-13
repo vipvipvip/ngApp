@@ -43,6 +43,7 @@ Thumbs.db
 
 #personal
 personal.txt
+*.pdf
 
 #firebase related
 /functions/
