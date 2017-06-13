@@ -40,3 +40,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#personal
+personal.txt
+
+#firebase related
+/functions/
