@@ -7,6 +7,10 @@ node_js:
 branches:
   only:
     - master
+    - v2
+    - v3-Routing
+    - v4-Comments
+    - v5-PWA
 
 before_script:
   - npm install -g firebase-tools
